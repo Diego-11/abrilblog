@@ -1,0 +1,18 @@
+.title-photo {
+	
+	margin-top: 10px;
+	color: #9859b4;
+	font-size: 40px;
+}
+
+.description-photo {
+
+	color: #000;
+	font-size: 17.5px
+}
+
+.carousel-control-next, .carousel-control-prev{
+
+	background: #000 !important;
+	width: 30px;
+}
